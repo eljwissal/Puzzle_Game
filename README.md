@@ -1,6 +1,8 @@
 # puzzle
 
+
 This template should help get you started developing with Vue 3 in Vite.
+![PuzzleGame](https://user-images.githubusercontent.com/115424868/236951020-e57be1bb-4d08-4ea3-9702-f66bef4f9179.png)
 
 ## Recommended IDE Setup
 
